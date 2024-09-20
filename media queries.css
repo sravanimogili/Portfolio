@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+    .tech {
+        grid-template-columns: 1fr; 
+}
+.lang{
+    padding: 10px;
+   }
+}
+
+
+
